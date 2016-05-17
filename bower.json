@@ -1,0 +1,19 @@
+{
+  "name": "angular2_001_basic",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nepras/angular2_001_basic",
+  "authors": [
+    "Karol <info@nepras.pl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular2-build": "v2.0.0-alpha.34"
+  }
+}
